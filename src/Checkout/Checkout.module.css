@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.checkout {
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 50vw;
+    padding: 15px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    border: none;
+    height: 35px;
+    width: 150px;
+    color: #fff;
+    background-color: #5ECE7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #4cf14c;
+}
