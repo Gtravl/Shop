@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shop/static/css/main.368ec2dd.css",
-    "main.js": "/shop/static/js/main.3d386f71.js",
-    "static/js/787.e8769ff5.chunk.js": "/shop/static/js/787.e8769ff5.chunk.js",
-    "static/media/Product E.JPG": "/shop/static/media/Product E.b2e932ab2e6242db4b3f.JPG",
-    "static/media/Product B.JPG": "/shop/static/media/Product B.96fc055b28ee72b914c7.JPG",
-    "static/media/Product A.JPG": "/shop/static/media/Product A.4bcca493d982a434e695.JPG",
-    "static/media/Product F.PNG": "/shop/static/media/Product F.2b42b19a941416d9a473.PNG",
-    "static/media/Product C.JPG": "/shop/static/media/Product C.f7db57a0fc7a71db255b.JPG",
-    "static/media/Product D.JPG": "/shop/static/media/Product D.5950928c3b4b745d8e6c.JPG",
-    "index.html": "/shop/index.html",
-    "main.368ec2dd.css.map": "/shop/static/css/main.368ec2dd.css.map",
-    "main.3d386f71.js.map": "/shop/static/js/main.3d386f71.js.map",
-    "787.e8769ff5.chunk.js.map": "/shop/static/js/787.e8769ff5.chunk.js.map"
+    "main.css": "/Shop/static/css/main.368ec2dd.css",
+    "main.js": "/Shop/static/js/main.529fc066.js",
+    "static/js/787.e8769ff5.chunk.js": "/Shop/static/js/787.e8769ff5.chunk.js",
+    "static/media/Product E.JPG": "/Shop/static/media/Product E.b2e932ab2e6242db4b3f.JPG",
+    "static/media/Product B.JPG": "/Shop/static/media/Product B.96fc055b28ee72b914c7.JPG",
+    "static/media/Product A.JPG": "/Shop/static/media/Product A.4bcca493d982a434e695.JPG",
+    "static/media/Product F.PNG": "/Shop/static/media/Product F.2b42b19a941416d9a473.PNG",
+    "static/media/Product C.JPG": "/Shop/static/media/Product C.f7db57a0fc7a71db255b.JPG",
+    "static/media/Product D.JPG": "/Shop/static/media/Product D.5950928c3b4b745d8e6c.JPG",
+    "index.html": "/Shop/index.html",
+    "main.368ec2dd.css.map": "/Shop/static/css/main.368ec2dd.css.map",
+    "main.529fc066.js.map": "/Shop/static/js/main.529fc066.js.map",
+    "787.e8769ff5.chunk.js.map": "/Shop/static/js/787.e8769ff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.368ec2dd.css",
-    "static/js/main.3d386f71.js"
+    "static/js/main.529fc066.js"
   ]
 }
