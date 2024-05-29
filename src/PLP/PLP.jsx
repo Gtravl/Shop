@@ -18,42 +18,42 @@ const PLP = () => {
      const obj = {
         productA: {
             id: 1,
-            name: "Product A",
+            name: "Hound shorts SS23",
             price: "$50.00",
             image: productA,
             qty: 1
         },
         productB: {
             id: 2,
-            name: "Product B",
+            name: "Hound pants SS23",
             price: "$40.00",
             image: productB,
             qty: 1
         },
         productC: {
             id: 3,
-            name: "Product C",
+            name: "Hound shorts SS24",
             price: "$30.00",
             image: productC,
             qty: 1
         },
         productD: {
             id: 4,
-            name: "Product D",
+            name: "Hound pants SS24",
             price: "$20.00",
             image: productD,
             qty: 1
         },
         productE: {
             id: 5,
-            name: "Product E",
+            name: "Hound pants SS25",
             price: "$10.00",
             image: productE,
             qty: 1
         },
         productF: {
             id: 6,
-            name: "Product F",
+            name: "Hound pants SS26",
             price: "$60.00",
             image: productF,
             qty: 1
@@ -90,7 +90,7 @@ const PLP = () => {
     return(
         <div className={style.container}>
             <div className={style.block}>
-                <h1>Category name</h1>
+                <h1>Hound emp</h1>
                 <div className={style.products}>
                     <div className={style.productBlock} id={"productBlockA"}>
                         <img src={obj.productA.image} alt="product"/>
